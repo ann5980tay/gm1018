@@ -1,4 +1,4 @@
 <?php
-header("Location: https://pestssolution.us/nor/index.html");
+header("Location: https://ca.norton.com/antivirus?inid=nortoncom_nav_antivirus_products-services:overview");
 die();
 ?>
