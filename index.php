@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actmca/");
+header("Location: https://www.glenelggolf.com/cms/golf-course/about-the-golf-course/");
 die();
 ?>
