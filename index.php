@@ -1,4 +1,4 @@
 <?php
-header("Location: https://rooterman.com/wichita/ppc-about/");
+header("Location: https://pensivepens.com.au/");
 die();
 ?>
